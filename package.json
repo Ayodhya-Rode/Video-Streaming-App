@@ -16,6 +16,7 @@
   "author": "Ayodhya Rode",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "prettier": "^3.7.4"
   }
 }
